@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 二、项目经验      
 🎯编程营地：这是一个前端基于 Vue.js 和后端基于springboot的项目，借助AI赋能，实现AI出题、AI对话、AI代码指导、AI批改、AI数据分析等功能。它具有简洁的界面和强大的功能，可以帮助师生群体提高工作效率。     
-访问地址：www.coderealm.top     
+访问地址：www.coderealm.club     
 
 三、技术栈     
 💻前端：HTML、CSS、JavaScript、Vue.js、React.js     
